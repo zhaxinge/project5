@@ -12,5 +12,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <i>Data Scientist</i> <br>
   Center for Safe Mobility
   <br>
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
