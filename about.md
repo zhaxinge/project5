@@ -83,3 +83,4 @@ ___
 [1] XINGE ZHANG & JIAQI QIU, “Fragile as a Rainbow”.Beijing, China.: https://www.smach.it/xinge-zhang-jiaqi-qiu 
 <br>[2] photo via: https://images.squarespace-cdn.com/content/v1/5be0024296d455f02b909991/1623683941553-9X82JWTOW6KVSSL9BEMR/XINGE-ZHANG_JIAQI-QIU_IMG_5153_GW.jpg?format=1500w
 <br>
+<br>[back](https://xingezhang.netlify.app/)
